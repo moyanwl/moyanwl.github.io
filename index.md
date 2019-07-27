@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 今、情热が岚になって
+title: 你若安好便是晴天的博客
 showtag:
-- ICPC模板
+- john
 ---
 ## 近期
 
