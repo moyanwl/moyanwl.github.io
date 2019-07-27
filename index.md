@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 你若安好便是晴天的博客
-showtag：page
+layout：_posts
 title: ICPC模板
 ---
 ## 近期
