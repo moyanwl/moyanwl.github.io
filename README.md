@@ -3,13 +3,13 @@ layout: page
 title: 关于
 permalink: /about
 ---
-## 开始
+## 介绍
 
-1. Fork [wu-kan/wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io)到你的仓库，并在设置里开启gh-pages
-2. 修改_config.yml为你自己的信息
-3. 删除_post/下的博文和public/image/文件夹下的图片，开始写你自己的文章
+1. 博客的创建为了以后开发或者分享有用的东西所创建的博客。
+2. 本博客的一些教程或者内容是本人收集的，如果发现有侵害你的权益行为请您联系我，我会第一时间处理的。
+3. 注意本博客的一些内容是不可进行转载的因为有一些是关乎到部分人的一些权益问题，如果需要转载需注明来源。
 
-详细配置可以参见[这篇博文](https://wu-kan.github.io/posts/博客搭建/基于Jekyll搭建个人博客)
+ 更多参见[这篇博文](https://wu-kan.github.io/posts/博客搭建/基于Jekyll搭建个人博客)
 
 ## 声明
 
