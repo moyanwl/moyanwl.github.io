@@ -2,7 +2,7 @@
 layout: page
 title: 你若安好便是晴天的博客
 showtag:
-- ICPC
+- ICPC模版
 ---
 ## 近期
 
