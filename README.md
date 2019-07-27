@@ -29,29 +29,7 @@ permalink: /about
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>
-        博客反馈界面 - 吐个槽
-    </title>
-
-    <!--[if lte IE 9]>
-        <script id="browser_upgrade" src="//h5app.qq.com/act/lib/browser_upgrade/dist.js"></script>
-    <![endif]-->
-    <script>
-                    var _User = {
-            id: '1',
-            name: "\u4f60\u82e5\u5b89\u597d\u4fbf\u662f\u6674\u5929",
-            avatar: "https:\/\/thirdqq.qlogo.cn\/g?b=oidb&k=Crcambia3XQ6d0vlRrg3WJA&s=100&t=1563124685",
-            isAdmin: true            };
-                    var productID = _ProductId = '72380';
-        var productName = _ProductName = "\u535a\u5ba2\u53cd\u9988\u754c\u9762";
-        var productLogo = _ProductLogo = "https:\/\/support.qq.com\/data\/72380\/2019\/0727\/a3ac534194ee40bdbcfffcb19727b42c.jpeg";
-        var productUrl = _ProductUrl = null;
-
-    </script>
-    <!--<script src="/static/pc-embed/js/vendor/moxie/bin/js/moxie.js"></script>-->
-    <!--[if IE 9]>
-        <script src="/static/pc-embed/js/vendor/moxie/bin/js/moxie.js"></script>
-    <![endif]-->
+    
 </head>
 <body>
 <div id="root">
